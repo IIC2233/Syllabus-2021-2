@@ -1,5 +1,6 @@
 ## AF1
-Esta será la distribución para la AF1 del día jueves 2 de septiembre.
+Esta será la distribución de puestos para la AF1 del día jueves 2 de septiembre.
+Pueden encontrar la distribución de la sala [aquí](https://github.com/IIC2233/Syllabus/blob/main/Sala/C203.png).
 
 | Puesto | Usuario :octocat: | Nombre |
 |:-------|:-------|:---------|
