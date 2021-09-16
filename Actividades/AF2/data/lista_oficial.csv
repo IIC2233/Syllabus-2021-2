@@ -1,0 +1,47 @@
+nombre,edad,pase movilidad,temperatura,tos,dolor cabeza,mail
+Francisca Ibarra,-25,true,36.8,false,false,faibarra1@uc.cl
+Ian Basly,23,true,36.4,false,false,uc@ian.cl
+Diego Collao,24,true,37.2,false,false,dlcollao@uc.cl
+Christian Klempau,-21,5,37.0,false,false,uc@christian.klempau.cl
+Matías Masjuan,-22,true,36.9,false,false,matas.masjuan@uc.cl
+Simón Jaramillo,19,false,37.9,true,false,uc@sjaramillo5.cl
+Carlos Gallegos,20,true,38.2,false,false,cegallegos@uc.cl
+Juan Pablo Sáez,22,3,36.5,false,false,jpsaez2@uc.cl
+Manuel Muñoz,23,4,36.7,true,true,mamunoz42@uc.cl
+Fernando Smith,24,5,39.1,false,true,fdsmith@uc.cl
+Pablo Rademacher,21,true,36.2,false,false,pablo.rademacher@uc.cl
+Maximiliano Torres,23,false,37.1,false,false,maximiliano.torres@uc.cl
+Jaime Moreno,19,true,37.0,true,true,jaime.moreno@uc.cl
+Iván Vergara,20,true,36.5,false,false,uc@ivl.cl
+Tomás Contreras,21,false,39.0,true,false,tcontrerasc@uc.cl
+Miguel Martínez,-18,false,36.5,false,true,martinez.m@uc.cl
+Tamara Vidal,-19,1000,37.1,false,false,ttvidal@uc.cl
+Catalina Arcila,26,true,38.5,false,true,uc@catalina.arcila.cl
+Max Yáñez,-23,true,36.3,false,false,max.yanez@uc.cl
+Tom Bañados,22,true,37.1,false,false,tbanados@uc.cl
+Francisca Cares,-25,24,37.9,true,true,fccares@uc.cl
+Victoria Atria,20,false,36.3,false,false,victoria.atria@uc.cl
+Francisco Olivares,21,false,38.1,false,true,fvolivares@uc.cl
+Catalina Carter,21,true,36.2,false,false,uc@catalina.carter.cl
+Carolina Moya,21,1,37.3,false,false,cimoya2@uc.cl
+Domingo Agüero,-21,true,36.5,false,false,domingo.aguero@uc.cl
+Franco Giannoni,24,false,38.0,true,true,uc@fagiannoni.cl
+Andrés Bravo,23,true,36.2,false,false,andresbravod@uc.cl
+Magdalena Nario,22,true,37.1,false,false,magdalena.nario@uc.cl
+Natalia Anglada,21,2,37.4,false,false,uc@natalia.anglada.cl
+Cristóbal Pérez-Cotapos,-19,true,36.1,false,false,cprezcotapos@uc.cl
+Sebastián Guerra,-18,false,38.1,true,false,sebastian.guerrap@uc.cl
+Pablo Kipreos Palau,23,false,37.1,false,true,pjkipreos@uc.cl
+Caua Terra Santiago Paz,24,true,36.8,false,false,csantiagopaz@uc.cl
+Camila González,20,10000,39.0,true,false,ccgonzalez3@uc.cl
+José Miguel Montero,-23,true,36.2,false,false,Jos.montero@uc.cl
+Rodrigo Bloomfield,-22,false,36.5,true,true,uc@rodrigo.cl
+Sebastián Pérez,21,false,38.1,true,false,sperezmasri@uc.cl
+Trini Balart,23,true,36.9,false,false,tsbalart@uc.cl
+Martina Muñoz,19,true,37.3,false,false,mpmunoz12@uc.cl
+Pedro Ríos,21,14,37.4,false,false,uc@pedroriosg.cl
+Lucas Irarrazabal,20,true,38.6,false,false,lucas.irarrzabal@uc.cl
+Eliseo López,21,false,36.5,false,true,eliseo.lopez@uc.cl
+Tamara Han,-25,true,37.7,true,true,uc@than.cl
+Benjamin Escobar,-24,true,37.1,false,false,bfescobar@uc.cl
+Valentina Campaña,26,1,39.2,false,true,uc@valentinacamph.cl
