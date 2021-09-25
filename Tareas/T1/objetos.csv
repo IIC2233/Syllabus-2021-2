@@ -1,0 +1,24 @@
+nombre,tipo,peso
+arco y flecha,arma,3
+puñal,arma,8
+catapulta,especial,6
+pistola,arma,2
+hacha,arma,4
+mazo,arma,7
+lanza,arma,9
+espada,arma,6
+ballesta,arma,4
+bayoneta,especial,9
+daga,arma,1
+espada láser,especial,8
+handroll,consumible,3
+papas de agro,especial,6
+sopaipilla,consumible,7
+panino fritto wurstel patatine,especial,5
+pizza pequeño cesar,consumible,5
+churro,consumible,1
+empanada,consumible,4
+kitadol,consumible,5
+aspirina,consumible,7
+ibuprofeno,consumible,9
+paracetamol,consumible,5
