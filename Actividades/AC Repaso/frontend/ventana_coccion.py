@@ -130,11 +130,11 @@ class VentanaCoccion(QWidget):
 
         return dentro_x and dentro_y
 
-    def procesar_click(self, x, y):
-        # Completar
-        pass
-
     def mousePressEvent(self, event):
+        x, y = event.x(), event.y()
+        self.procesar_click(x, y)
+
+    def procesar_click(self, x, y):
         # Completar
         pass
 
