@@ -24,26 +24,13 @@ class Hamburguesa(QLabel):
         )
         self.show()
 
-    # Completar Property
-    @property
     def coccion(self):
-        return self._coccion
-
-    @coccion.setter
-    def coccion(self, value):
-        self._coccion = value
-        pixmap = QPixmap(
-            f'./frontend/assets/sprites/hamburguesa_{self.coccion}.png'
-        )
-        self.setFixedSize(pixmap.size())
-        self.setPixmap(pixmap)
+        # Completar Property
+        pass
 
     def mousePressEvent(self, event):
         # Completar
-        if not self.en_estante:
-            self.senal_seleccionar_hamburguesa.emit(self.id)
-        else:
-            event.ignore()
+        pass
 
 
 class VentanaCoccion(QWidget):
@@ -148,8 +135,8 @@ class VentanaCoccion(QWidget):
         pass
 
     def mousePressEvent(self, event):
-        x, y = event.x(), event.y()
-        self.procesar_click(x, y)
+        # Completar
+        pass
 
     def agregar_hamburguesa(self, id, coccion):
         # Completar
