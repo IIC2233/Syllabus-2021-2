@@ -76,8 +76,7 @@ def menu_subida(fail=False):
         if nombre_archivo == "Volver":
             # Si el usuario decidio volver en el menu_seleccion_archivo
             return menu_subida(fail=False)
-
-    if archivo:
+        # esta linea se borro
         ruta = join('data', tipo, nombre_archivo)
         nombre = nombre_archivo.split(".")[0]
         archivo = archivo_a_bytes(ruta)
@@ -91,7 +90,7 @@ def menu_seleccion_archivo(categoria, operacion, fail=False):
 
     El argumento operacion puede tomar los valores "subida" o "descarga"
     """
-    if not categoria:
+    if categoria is None:  # esta linea se modifico
         # Si se le entrega una lista vacia desde menu_descarga
         return
     print("="*10 + "  Selección de archivos  " + "="*10 + "\n")
