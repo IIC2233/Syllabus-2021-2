@@ -1,0 +1,694 @@
+{
+  "USERS": {
+    "Francisca Ibarra": {
+      "nombre": "Francisca Ibarra",
+      "correo": "ibarra.f.uvd@dccelebrity.cl",
+      "fama": 1,
+      "amistades": [
+        "Domingo Agüero",
+        "Pablo Rademacher",
+        "Waluigi",
+        "Simón Jaramillo",
+        "Cristóbal Pérez-Cotapos"
+      ]
+    },
+    "Ian Basly": {
+      "nombre": "Ian Basly",
+      "correo": "basly.i.isr@dccelebrity.cl",
+      "fama": 2,
+      "amistades": [
+        "Juan Pablo Sáez",
+        "Eliseo López",
+        "Lucario",
+        "Pedro Ríos",
+        "Zendaya",
+        "Pablo Kipreos Palau",
+        "Valentina Campaña"
+      ]
+    },
+    "Diego Collao": {
+      "nombre": "Diego Collao",
+      "correo": "collao.d.mzv@dccelebrity.cl",
+      "fama": 3,
+      "amistades": [
+        "Chayanne",
+        "Carlos Gallegos",
+        "Lisa",
+        "Eliseo López",
+        "Dragonite",
+        "Victoria Atria",
+        "Sebastián Guerra",
+        "Levy Ackerman"
+      ]
+    },
+    "Levy Ackerman": {
+      "nombre": "Levy Ackerman",
+      "correo": "sopa.do.macaco@uc.cl",
+      "fama": 60,
+      "amistades": [
+        "Tomás Contreras",
+        "Levy Hackerman",
+        "Francisco Olivares",
+        "Diego Collao",
+        "Manuel Muñoz"
+      ]
+    },
+    "Levy Hackerman": {
+      "nombre": "Levy Hackerman",
+      "correo": "h_a_c_k@uc.cl",
+      "fama": 59,
+      "amistades": [
+        "Lisa",
+        "Caua Terra Santiago Paz",
+        "Francisca Cares",
+        "Dragonite",
+        "Levy Ackerman"
+      ]
+    },
+    "Christian Klempau": {
+      "nombre": "Christian Klempau",
+      "correo": "klempau.c.mew@dccelebrity.cl",
+      "fama": 4,
+      "amistades": [
+        "Eliseo López",
+        "Manuel Muñoz",
+        "Carolina Moya"
+      ]
+    },
+    "Matías Masjuan": {
+      "nombre": "Matías Masjuan",
+      "correo": "masjuan.m.ugw@dccelebrity.cl",
+      "fama": 5,
+      "amistades": [
+        "Francisco Olivares",
+        "Pepa Bot",
+        "Tamara Vidal",
+        "Catalina Arcila"
+      ]
+    },
+    "Zendaya": {
+      "nombre": "Zendaya",
+      "correo": "zendaya@uc.cl",
+      "fama": 58,
+      "amistades": [
+        "Catalina Arcila",
+        "Simón Jaramillo",
+        "Manuel Muñoz",
+        "Ian Basly",
+        "Pepa Bot"
+      ]
+    },
+    "Simón Jaramillo": {
+      "nombre": "Simón Jaramillo",
+      "correo": "jaramillo.s.beg@dccelebrity.cl",
+      "fama": 6,
+      "amistades": [
+        "Magdalena Nario",
+        "Francisca Ibarra",
+        "Emilia Pinto",
+        "Zendaya",
+        "Pablo Kipreos Palau"
+      ]
+    },
+    "Carlos Gallegos": {
+      "nombre": "Carlos Gallegos",
+      "correo": "gallegos.c.yjg@dccelebrity.cl",
+      "fama": 7,
+      "amistades": [
+        "Chayanne",
+        "Natalia Anglada",
+        "Rodrigo Bloomfield",
+        "Trini Balart",
+        "Diego Collao",
+        "Fernando Smith"
+      ]
+    },
+    "Juan Pablo Sáez": {
+      "nombre": "Juan Pablo Sáez",
+      "correo": "pablo.j.kzc@dccelebrity.cl",
+      "fama": 8,
+      "amistades": [
+        "Trini Balart",
+        "Ian Basly",
+        "Francisco Olivares",
+        "Benjamin Escobar"
+      ]
+    },
+    "Manuel Muñoz": {
+      "nombre": "Manuel Muñoz",
+      "correo": "munoz.m.nrv@dccelebrity.cl",
+      "fama": 9,
+      "amistades": [
+        "Christian Klempau",
+        "Carolina Moya",
+        "Zendaya",
+        "Victoria Atria",
+        "Levy Ackerman"
+      ]
+    },
+    "Fernando Smith": {
+      "nombre": "Fernando Smith",
+      "correo": "smith.f.vfg@dccelebrity.cl",
+      "fama": 10,
+      "amistades": [
+        "Carolina Moya",
+        "Carlos Gallegos",
+        "Tamara Vidal"
+      ]
+    },
+    "Pablo Rademacher": {
+      "nombre": "Pablo Rademacher",
+      "correo": "rademacher.p.drl@dccelebrity.cl",
+      "fama": 11,
+      "amistades": [
+        "Maximiliano Torres",
+        "Catalina Carter",
+        "Orlando Bloom",
+        "Francisca Ibarra"
+      ]
+    },
+    "Maximiliano Torres": {
+      "nombre": "Maximiliano Torres",
+      "correo": "torres.m.qtr@dccelebrity.cl",
+      "fama": 12,
+      "amistades": [
+        "Andrés Bravo",
+        "Iván Vergara",
+        "Pablo Rademacher",
+        "Martina Muñoz",
+        "Franco Giannoni"
+      ]
+    },
+    "Jaime Moreno": {
+      "nombre": "Jaime Moreno",
+      "correo": "moreno.j.dot@dccelebrity.cl",
+      "fama": 13,
+      "amistades": [
+        "Miguel Martínez",
+        "Magdalena Nario",
+        "Catalina Arcila",
+        "José Miguel Montero"
+      ]
+    },
+    "Iván Vergara": {
+      "nombre": "Iván Vergara",
+      "correo": "vergara.i.xed@dccelebrity.cl",
+      "fama": 14,
+      "amistades": [
+        "Lucas Irarrazabal",
+        "Camila González",
+        "Domingo Agüero",
+        "Maximiliano Torres",
+        "Miguel Martínez"
+      ]
+    },
+    "Dragonite": {
+      "nombre": "Dragonite",
+      "correo": "diez.de.diez@uc.cl",
+      "fama": 57,
+      "amistades": [
+        "Lucas Irarrazabal",
+        "Levy Hackerman",
+        "Diego Collao",
+        "José Miguel Montero",
+        "Pepa Bot"
+      ]
+    },
+    "Tomás Contreras": {
+      "nombre": "Tomás Contreras",
+      "correo": "contreras.t.lil@dccelebrity.cl",
+      "fama": 15,
+      "amistades": [
+        "Orlando Bloom",
+        "Lucario",
+        "Pedro Ríos",
+        "Sebastián Pérez",
+        "Tamara Vidal",
+        "Levy Ackerman"
+      ]
+    },
+    "Miguel Martínez": {
+      "nombre": "Miguel Martínez",
+      "correo": "martinez.m.rdn@dccelebrity.cl",
+      "fama": 16,
+      "amistades": [
+        "Emilia Pinto",
+        "Pedro Ríos",
+        "Iván Vergara",
+        "Jaime Moreno",
+        "Max Yáñez"
+      ]
+    },
+    "Tamara Vidal": {
+      "nombre": "Tamara Vidal",
+      "correo": "vidal.t.hsf@dccelebrity.cl",
+      "fama": 17,
+      "amistades": [
+        "Catalina Arcila",
+        "Matías Masjuan",
+        "Tomás Contreras",
+        "Victoria Atria",
+        "Sebastián Guerra",
+        "Fernando Smith"
+      ]
+    },
+    "Catalina Arcila": {
+      "nombre": "Catalina Arcila",
+      "correo": "arcila.c.yrw@dccelebrity.cl",
+      "fama": 18,
+      "amistades": [
+        "Matías Masjuan",
+        "Max Yáñez",
+        "Camila González",
+        "Zendaya",
+        "Jaime Moreno",
+        "Francisco Olivares",
+        "Pepa Bot",
+        "Tamara Vidal"
+      ]
+    },
+    "Max Yáñez": {
+      "nombre": "Max Yáñez",
+      "correo": "yanez.m.yol@dccelebrity.cl",
+      "fama": 19,
+      "amistades": [
+        "Greta Thunberg",
+        "Catalina Arcila",
+        "Domingo Agüero",
+        "Miguel Martínez",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "Tom Bañados": {
+      "nombre": "Tom Bañados",
+      "correo": "banados.t.pts@dccelebrity.cl",
+      "fama": 20,
+      "amistades": [
+        "Chayanne",
+        "Catalina Carter",
+        "Andrés Bravo",
+        "Sebastián Guerra"
+      ]
+    },
+    "Chayanne": {
+      "nombre": "Chayanne",
+      "correo": "torero@uc.cl",
+      "fama": 56,
+      "amistades": [
+        "Carlos Gallegos",
+        "Tom Bañados",
+        "Diego Collao"
+      ]
+    },
+    "Francisca Cares": {
+      "nombre": "Francisca Cares",
+      "correo": "cares.f.jvy@dccelebrity.cl",
+      "fama": 21,
+      "amistades": [
+        "Franco Giannoni",
+        "Levy Hackerman",
+        "Greta Thunberg",
+        "Domingo Agüero"
+      ]
+    },
+    "Victoria Atria": {
+      "nombre": "Victoria Atria",
+      "correo": "atria.v.fzo@dccelebrity.cl",
+      "fama": 22,
+      "amistades": [
+        "Trini Balart",
+        "Benjamin Escobar",
+        "Diego Collao",
+        "Martina Muñoz",
+        "Manuel Muñoz",
+        "Sebastián Guerra",
+        "Tamara Vidal"
+      ]
+    },
+    "Francisco Olivares": {
+      "nombre": "Francisco Olivares",
+      "correo": "olivares.f.rii@dccelebrity.cl",
+      "fama": 23,
+      "amistades": [
+        "Juan Pablo Sáez",
+        "Magdalena Nario",
+        "Catalina Arcila",
+        "Matías Masjuan",
+        "Camila González",
+        "Levy Ackerman"
+      ]
+    },
+    "Catalina Carter": {
+      "nombre": "Catalina Carter",
+      "correo": "carter.c.suu@dccelebrity.cl",
+      "fama": 24,
+      "amistades": [
+        "Pablo Rademacher",
+        "Cristóbal Pérez-Cotapos",
+        "Pedro Ríos",
+        "Tom Bañados"
+      ]
+    },
+    "Waluigi": {
+      "nombre": "Waluigi",
+      "correo": "waaa@uc.cl",
+      "fama": 55,
+      "amistades": [
+        "Sans",
+        "Camila González",
+        "Francisca Ibarra"
+      ]
+    },
+    "Carolina Moya": {
+      "nombre": "Carolina Moya",
+      "correo": "moya.c.not@dccelebrity.cl",
+      "fama": 25,
+      "amistades": [
+        "Manuel Muñoz",
+        "Fernando Smith",
+        "Natalia Anglada",
+        "Christian Klempau"
+      ]
+    },
+    "Domingo Agüero": {
+      "nombre": "Domingo Agüero",
+      "correo": "aguero.d.vvr@dccelebrity.cl",
+      "fama": 26,
+      "amistades": [
+        "Magdalena Nario",
+        "Francisca Ibarra",
+        "Trini Balart",
+        "Francisca Cares",
+        "Iván Vergara",
+        "Max Yáñez"
+      ]
+    },
+    "Greta Thunberg": {
+      "nombre": "Greta Thunberg",
+      "correo": "gthunberg@uc.cl",
+      "fama": 54,
+      "amistades": [
+        "Francisca Cares",
+        "Max Yáñez",
+        "Sebastián Pérez"
+      ]
+    },
+    "Franco Giannoni": {
+      "nombre": "Franco Giannoni",
+      "correo": "giannoni.f.myg@dccelebrity.cl",
+      "fama": 27,
+      "amistades": [
+        "Lisa",
+        "Orlando Bloom",
+        "Francisca Cares",
+        "Pedro Ríos",
+        "Maximiliano Torres"
+      ]
+    },
+    "Andrés Bravo": {
+      "nombre": "Andrés Bravo",
+      "correo": "bravo.a.kls@dccelebrity.cl",
+      "fama": 28,
+      "amistades": [
+        "Maximiliano Torres",
+        "Emilia Pinto",
+        "Tom Bañados"
+      ]
+    },
+    "Magdalena Nario": {
+      "nombre": "Magdalena Nario",
+      "correo": "nario.m.nzb@dccelebrity.cl",
+      "fama": 29,
+      "amistades": [
+        "Rodrigo Bloomfield",
+        "Trini Balart",
+        "Domingo Agüero",
+        "Francisco Olivares",
+        "Jaime Moreno",
+        "Simón Jaramillo"
+      ]
+    },
+    "Benedict Cumberbatch": {
+      "nombre": "Benedict Cumberbatch",
+      "correo": "bandicoot.thundersnatch@uc.cl",
+      "fama": 53,
+      "amistades": [
+        "Natalia Anglada",
+        "Max Yáñez"
+      ]
+    },
+    "Natalia Anglada": {
+      "nombre": "Natalia Anglada",
+      "correo": "anglada.n.ufu@dccelebrity.cl",
+      "fama": 30,
+      "amistades": [
+        "Carolina Moya",
+        "Carlos Gallegos",
+        "Rodrigo Bloomfield",
+        "Benedict Cumberbatch"
+      ]
+    },
+    "Cristóbal Pérez-Cotapos": {
+      "nombre": "Cristóbal Pérez-Cotapos",
+      "correo": "perez-cotapos.c.edn@dccelebrity.cl",
+      "fama": 31,
+      "amistades": [
+        "Catalina Carter",
+        "Sebastián Pérez",
+        "Pablo Kipreos Palau",
+        "Francisca Ibarra"
+      ]
+    },
+    "Sebastián Guerra": {
+      "nombre": "Sebastián Guerra",
+      "correo": "guerra.s.xxd@dccelebrity.cl",
+      "fama": 32,
+      "amistades": [
+        "Tom Bañados",
+        "Sans",
+        "Victoria Atria",
+        "Diego Collao",
+        "Tamara Vidal"
+      ]
+    },
+    "Sans": {
+      "nombre": "Sans",
+      "correo": "bad.time@megalovania.cl",
+      "fama": 52,
+      "amistades": [
+        "Waluigi",
+        "Caua Terra Santiago Paz",
+        "Sebastián Guerra"
+      ]
+    },
+    "Pablo Kipreos Palau": {
+      "nombre": "Pablo Kipreos Palau",
+      "correo": "kipreos.p.jbb@dccelebrity.cl",
+      "fama": 33,
+      "amistades": [
+        "Ian Basly",
+        "Cristóbal Pérez-Cotapos",
+        "Simón Jaramillo",
+        "Martina Muñoz"
+      ]
+    },
+    "Caua Terra Santiago Paz": {
+      "nombre": "Caua Terra Santiago Paz",
+      "correo": "csantiagopaz@uc.cl",
+      "fama": 51,
+      "amistades": [
+        "Sans",
+        "Levy Hackerman",
+        "José Miguel Montero"
+      ]
+    },
+    "Camila González": {
+      "nombre": "Camila González",
+      "correo": "gonzalez.c.zlo@dccelebrity.cl",
+      "fama": 34,
+      "amistades": [
+        "Francisco Olivares",
+        "Waluigi",
+        "Iván Vergara",
+        "Catalina Arcila"
+      ]
+    },
+    "Lucario": {
+      "nombre": "Lucario",
+      "correo": "very.cool@uc.cl",
+      "fama": 50,
+      "amistades": [
+        "Tomás Contreras",
+        "Ian Basly",
+        "Tamara Han"
+      ]
+    },
+    "Lisa": {
+      "nombre": "Lisa",
+      "correo": "lalisa@blackpink.cl",
+      "fama": 49,
+      "amistades": [
+        "Tamara Han",
+        "Levy Hackerman",
+        "Diego Collao",
+        "Martina Muñoz",
+        "Franco Giannoni"
+      ]
+    },
+    "José Miguel Montero": {
+      "nombre": "José Miguel Montero",
+      "correo": "miguel.j.spg@dccelebrity.cl",
+      "fama": 35,
+      "amistades": [
+        "Dragonite",
+        "Caua Terra Santiago Paz",
+        "Jaime Moreno"
+      ]
+    },
+    "Rodrigo Bloomfield": {
+      "nombre": "Rodrigo Bloomfield",
+      "correo": "bloomfield.r.efi@dccelebrity.cl",
+      "fama": 36,
+      "amistades": [
+        "Natalia Anglada",
+        "Carlos Gallegos",
+        "Magdalena Nario",
+        "Pedro Ríos"
+      ]
+    },
+    "Sebastián Pérez": {
+      "nombre": "Sebastián Pérez",
+      "correo": "perez.s.lyt@dccelebrity.cl",
+      "fama": 37,
+      "amistades": [
+        "Tomás Contreras",
+        "Cristóbal Pérez-Cotapos",
+        "Greta Thunberg"
+      ]
+    },
+    "Trini Balart": {
+      "nombre": "Trini Balart",
+      "correo": "balart.t.qpm@dccelebrity.cl",
+      "fama": 38,
+      "amistades": [
+        "Juan Pablo Sáez",
+        "Carlos Gallegos",
+        "Magdalena Nario",
+        "Domingo Agüero",
+        "Victoria Atria",
+        "Benjamin Escobar"
+      ]
+    },
+    "Martina Muñoz": {
+      "nombre": "Martina Muñoz",
+      "correo": "munoz.m.xdv@dccelebrity.cl",
+      "fama": 39,
+      "amistades": [
+        "Maximiliano Torres",
+        "Victoria Atria",
+        "Lisa",
+        "Pablo Kipreos Palau"
+      ]
+    },
+    "Pedro Ríos": {
+      "nombre": "Pedro Ríos",
+      "correo": "rios.p.scd@dccelebrity.cl",
+      "fama": 40,
+      "amistades": [
+        "Rodrigo Bloomfield",
+        "Tomás Contreras",
+        "Benjamin Escobar",
+        "Miguel Martínez",
+        "Franco Giannoni",
+        "Catalina Carter",
+        "Ian Basly"
+      ]
+    },
+    "Orlando Bloom": {
+      "nombre": "Orlando Bloom",
+      "correo": "bloom.orlando@dccelebrity.cl",
+      "fama": 48,
+      "amistades": [
+        "Pablo Rademacher",
+        "Tomás Contreras",
+        "Valentina Campaña",
+        "Franco Giannoni"
+      ]
+    },
+    "Pepa Bot": {
+      "nombre": "Pepa Bot",
+      "correo": "pepa.correos@dccelebrity.cl",
+      "fama": 47,
+      "amistades": [
+        "Catalina Arcila",
+        "Matías Masjuan",
+        "Zendaya",
+        "Dragonite",
+        "Valentina Campaña"
+      ]
+    },
+    "Lucas Irarrazabal": {
+      "nombre": "Lucas Irarrazabal",
+      "correo": "irarrazabal.l.ofx@dccelebrity.cl",
+      "fama": 41,
+      "amistades": [
+        "Iván Vergara",
+        "Dragonite"
+      ]
+    },
+    "Eliseo López": {
+      "nombre": "Eliseo López",
+      "correo": "lopez.e.tgj@dccelebrity.cl",
+      "fama": 42,
+      "amistades": [
+        "Christian Klempau",
+        "Valentina Campaña",
+        "Ian Basly",
+        "Diego Collao"
+      ]
+    },
+    "Tamara Han": {
+      "nombre": "Tamara Han",
+      "correo": "han.t.iky@dccelebrity.cl",
+      "fama": 43,
+      "amistades": [
+        "Lucario",
+        "Lisa"
+      ]
+    },
+    "Benjamin Escobar": {
+      "nombre": "Benjamin Escobar",
+      "correo": "escobar.b.zla@dccelebrity.cl",
+      "fama": 44,
+      "amistades": [
+        "Juan Pablo Sáez",
+        "Trini Balart",
+        "Emilia Pinto",
+        "Pedro Ríos",
+        "Victoria Atria"
+      ]
+    },
+    "Valentina Campaña": {
+      "nombre": "Valentina Campaña",
+      "correo": "campana.v.dqw@dccelebrity.cl",
+      "fama": 45,
+      "amistades": [
+        "Eliseo López",
+        "Ian Basly",
+        "Pepa Bot",
+        "Orlando Bloom"
+      ]
+    },
+    "Emilia Pinto": {
+      "nombre": "Emilia Pinto",
+      "correo": "pinto.e.olw@dccelebrity.cl",
+      "fama": 46,
+      "amistades": [
+        "Benjamin Escobar",
+        "Andrés Bravo",
+        "Simón Jaramillo",
+        "Miguel Martínez"
+      ]
+    }
+  }
+}
